@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project ID="Arma3">
+	<Package ID="BG">
+		<Container ID="Modules">
+			<Key ID="STR_BG_Radius">
+				<Original>Radius of placement of vehicle</Original>
+				<English>Радіус розміщення техніки</English>
+				<Russian>Радіус розміщення техніки</Russian>
+			</Key>
+			<Key ID="STR_BG_Radius_Desc">
+				<Original>The radius around each unit commander in which it is necessary to place the equipment so that it is secured behind it.</Original>
+				<English>Радіус навколо кожного командира підрозділу в якому необхідно розмістити техніку, щоб вона закріпилася за ним.</English>
+				<Russian>Радіус навколо кожного командира підрозділу в якому необхідно розмістити техніку, щоб вона закріпилася за ним.</Russian>
+			</Key>
+			<Key ID="STR_BG_TimeRunScript">
+				<Original>Time</Original>
+				<English>Час</English>
+				<Russian>Час</Russian>
+			</Key>
+			<Key ID="STR_BG_TimeRunScript_Desc">
+				<Original>The time before the freezing is completed, in seconds, upon which the instant attachment of the equipment to the commanders takes place.</Original>
+				<English>Час до завершення фрізтайму, в секундах, по досягненні якого відбувається миттєве закріплення техніки за командирами.</English>
+				<Russian>Час до завершення фрізтайму, в секундах, по досягненні якого відбувається миттєве закріплення техніки за командирами.</Russian>
+			</Key>
+		</Container>
+	</Package>
+</Project>

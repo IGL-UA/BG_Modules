@@ -1,0 +1,12 @@
+name = "Arma 3 Big Games - Modules";
+picture = "logo_bg_modules.paa";
+actionName = "GitHub";
+action = "https://github.com/IGL-UA/BG_Modules";
+description = "BG Modules - Version 1.0.0";
+logo = "logo_bg_modules.paa";
+logoOver = "logo_bg_modules.paa";
+tooltip = "BG Modules";
+tooltipOwned = "";
+overview = "";
+author = "IGL";
+overviewPicture = "logo_bg_modules.paa";
