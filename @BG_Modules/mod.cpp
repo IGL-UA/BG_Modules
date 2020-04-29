@@ -7,6 +7,6 @@ logo = "logo_bg_modules.paa";
 logoOver = "logo_bg_modules.paa";
 tooltip = "BG Modules";
 tooltipOwned = "";
-overview = "";
+overview = "Збірка модулів, що спрощує створення сценаріїв для Arma 3 Ukraine - Big Games";
 author = "IGL";
 overviewPicture = "logo_bg_modules.paa";
