@@ -1,2 +1,13 @@
 BG_fn_InitDeleteVehicles = compileFinal preprocessFile  ("BG_Modules\functions\fn_InitDeleteVehicles.sqf");
-BG_fnc_InitModuleStopZone = compileFinal preprocessFile  ("BG_Modules\functions\fnc_initModuleStopZone.sqf");
+BG_fnc_InitModuleStopZone = compileFinal preprocessFile  ("BG_Modules\functions\fn_initModuleStopZone.sqf");
+BG_fn_InitGetRadio = compileFinal preprocessFile  ("BG_Modules\functions\fn_InitGetRadio.sqf");
+BG_fn_InitModuleHospital = compileFinal preprocessFile  ("BG_Modules\functions\fn_InitModuleHospital.sqf");
+BG_fn_InitModuleMinefield = compileFinal preprocessFile  ("BG_Modules\functions\fn_InitModuleMinefield.sqf");
+BG_fn_InitMain = compileFinal preprocessFile  ("BG_Modules\functions\fn_InitMain.sqf");
+BG_fn_InitModulePrustrilka = compileFinal preprocessFile  ("BG_Modules\functions\fn_InitModulePrustrilka.sqf");
+BG_fn_InitModuleZonaNotMines = compileFinal preprocessFile  ("BG_Modules\functions\fn_InitModuleZonaNotMines.sqf");
+BG_fn_InitModuleArtyleryMapTools = compileFinal preprocessFile  ("BG_Modules\functions\fn_InitModuleArtyleryMapTools.sqf");
+BG_fn_DeleteMapToolsBags = compileFinal preprocessFile  ("BG_Modules\resource\mapToolsDelToObjOnMap.sqf");
+BG_fn_InitResedenture = compileFinal preprocessFile  ("BG_Modules\functions\fn_InitResedenture.sqf");
+BG_fn_InitSaveMPGame = compileFinal preprocessFile  ("BG_Modules\functions\fn_InitModuleSaveMPGame.sqf");
+BG_fn_InitControlDeadCiv = compileFinal preprocessFile  ("BG_Modules\functions\fn_InitModuleControlDeadCiv.sqf");

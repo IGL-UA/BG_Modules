@@ -4,7 +4,7 @@
  	Author(s):	IGL
 */
 
-#include "defines.sqf"
+#include "definesBG.sqf"
 
 PR(_logic) = [_this,0,objNull,[objNull]] call BIS_fnc_param;
 PR(_units) = [_this,1,[],[[]]] call BIS_fnc_param;
